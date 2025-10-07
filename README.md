@@ -1,3 +1,3 @@
 # Odin Recipes
 
-Basic Recipes Website made using HTML/
+Basic Recipes Website made using HTML
